@@ -10,6 +10,7 @@ projects[libraries] = 1.0
 projects[panels]  = 3.3
 projects[views]  = 3.4
 projects[imagefield_crop]  = 1.0
+projects[views_slideshow] = 3.0
 
 libraries[jquery.cycle][download][type] = git
 libraries[jquery.cycle][download][url] = git://github.com/malsup/cycle.git
