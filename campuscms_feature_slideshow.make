@@ -7,7 +7,6 @@ api = 2
 projects[link] = 1.0
 projects[libraries] = 1.0
 
-projects[panels]  = 3.3
 projects[views]  = 3.4
 projects[imagefield_crop]  = 1.0
 projects[views_slideshow] = 3.0
